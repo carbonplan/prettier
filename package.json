@@ -1,0 +1,16 @@
+{
+  "name": "@carbonplan/prettier",
+  "version": "1.0.0",
+  "description": "prettier config for carbonplan",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carbonplan/prettier.git"
+  },
+  "author": "freeman-lab",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carbonplan/prettier/issues"
+  },
+  "homepage": "https://github.com/carbonplan/prettier#readme"
+}

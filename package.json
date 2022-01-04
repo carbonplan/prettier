@@ -1,8 +1,8 @@
 {
   "name": "@carbonplan/prettier",
-  "version": "1.0.0",
+  "version": "1.0.0-develop.1",
   "description": "prettier config for carbonplan",
-  "main": "index.js",
+  "main": "index.json",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/carbonplan/prettier.git"

@@ -1,6 +1,6 @@
 {
   "name": "@carbonplan/prettier",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "prettier config for carbonplan",
   "main": "index.json",
   "repository": {
@@ -12,5 +12,8 @@
   "bugs": {
     "url": "https://github.com/carbonplan/prettier/issues"
   },
-  "homepage": "https://github.com/carbonplan/prettier#readme"
+  "homepage": "https://github.com/carbonplan/prettier#readme",
+  "dependencies": {
+    "prettier": "^2.5.1"
+  }
 }

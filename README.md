@@ -1,20 +1,18 @@
-<img
-  src="https://carbonplan-assets.s3.amazonaws.com/monogram/dark-small.png"
-  height="48"
-/>
+<p align="left" >
+<a href='https://carbonplan.org'>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://carbonplan-assets.s3.amazonaws.com/monogram/light-small.png">
+  <img alt="CarbonPlan monogram." height="48" src="https://carbonplan-assets.s3.amazonaws.com/monogram/dark-small.png">
+</picture>
+</a>
+</p>
 
 # carbonplan / prettier
 
 **prettier config for javascript at carbonplan**
 
-[![GitHub][github-badge]][github]
-![MIT License][]
-![NPM Version][]
-
-[github]: https://github.com/carbonplan/prettier
-[github-badge]: https://badgen.net/badge/-/github?icon=github&label
-[mit license]: https://badgen.net/badge/license/MIT/blue
-[npm version]: https://badgen.net/npm/v/@carbonplan/prettier
+![NPM Version](https://img.shields.io/npm/v/@carbonplan/prettier)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## usage
 
